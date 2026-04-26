@@ -1,0 +1,14 @@
+{
+    "name": "Control.Tools.BlenderTransformations.Runtime",
+    "rootNamespace": "Control.Tools.BlenderTransformations",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

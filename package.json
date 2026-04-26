@@ -1,0 +1,26 @@
+{
+  "name": "com.control-tools.blender-transformations",
+  "version": "0.1.0",
+  "displayName": "Control Tools - Blender Transformations",
+  "description": "Unity tools for working with Blender-style transformations and transform workflows.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Control Tools"
+  },
+  "keywords": [
+    "unity",
+    "tools",
+    "editor",
+    "blender",
+    "transform",
+    "transformations",
+    "control-tools"
+  ],
+  "samples": [
+    {
+      "displayName": "Basic Usage",
+      "description": "Basic example setup for Blender-style transformation workflows.",
+      "path": "Samples~/Basic Usage"
+    }
+  ]
+}
