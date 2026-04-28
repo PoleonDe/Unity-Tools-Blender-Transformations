@@ -8,17 +8,23 @@ Unity 6 / 6000.0 or newer.
 
 ## Installation
 
-Install from a Git URL:
+Install the package directly from GitHub with Unity Package Manager:
+
+1. Open `Window > Package Manager` in Unity.
+2. Select `+ > Install package from git URL...`.
+3. Enter this URL:
 
 ```text
-https://github.com/OWNER/com.control-tools.blender-transformations.git#0.1.0
+https://github.com/PoleonDe/Unity-Tools-Blender-Transformations.git
 ```
 
-Install from a local file path during development:
+You can also add the package to `Packages/manifest.json`:
 
 ```json
-"com.control-tools.blender-transformations": "file:../../com.control-tools.blender-transformations"
+"com.control-tools.blender-transformations": "https://github.com/PoleonDe/Unity-Tools-Blender-Transformations.git"
 ```
+
+To install a specific version later, create and push a Git tag, then append it to the URL, for example `#0.1.0`.
 
 ## Basic Usage
 
@@ -36,6 +42,7 @@ After installation, use the Scene View shortcuts provided by the package. Settin
 
 - The transform workflow is editor-only.
 - Shortcut installation can affect matching Scene View shortcuts in the current Unity editor profile.
+- Git URL installation requires Git to be installed and available on the system path used by Unity.
 
 ## Changelog
 

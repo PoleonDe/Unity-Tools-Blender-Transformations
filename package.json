@@ -4,8 +4,20 @@
   "displayName": "Control Tools - Blender Transformations",
   "description": "Unity tools for working with Blender-style transformations and transform workflows.",
   "unity": "6000.0",
+  "license": "MIT",
   "author": {
-    "name": "Control Tools"
+    "name": "PoleonDe",
+    "url": "https://github.com/PoleonDe"
+  },
+  "documentationUrl": "https://github.com/PoleonDe/Unity-Tools-Blender-Transformations#readme",
+  "changelogUrl": "https://github.com/PoleonDe/Unity-Tools-Blender-Transformations/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/PoleonDe/Unity-Tools-Blender-Transformations/blob/main/LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PoleonDe/Unity-Tools-Blender-Transformations.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PoleonDe/Unity-Tools-Blender-Transformations/issues"
   },
   "keywords": [
     "unity",
