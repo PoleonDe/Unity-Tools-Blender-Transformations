@@ -1,12 +1,12 @@
 {
   "name": "com.control-tools.blender-transformations",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Control Tools - Blender Transformations",
   "description": "Unity tools for working with Blender-style transformations and transform workflows.",
   "unity": "6000.0",
   "license": "MIT",
   "author": {
-    "name": "PoleonDe",
+    "name": "Control Tools",
     "url": "https://github.com/PoleonDe"
   },
   "documentationUrl": "https://github.com/PoleonDe/Unity-Tools-Blender-Transformations#readme",
