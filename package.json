@@ -1,6 +1,6 @@
 {
   "name": "com.control-tools.blender-transformations",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "displayName": "Control Tools - Blender Transformations",
   "description": "Unity tools for working with Blender-style transformations and transform workflows.",
   "unity": "6000.0",
